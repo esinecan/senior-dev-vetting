@@ -1,4 +1,4 @@
-# senior-dev-vetting
+# senior-dev-vetting (IN PROGRESS BUT ALSO USABLE)
 A curated list of technical interview questions and answers focused on real-world backend engineering scenarios, including system design, microservices, CI/CD, observability, API versioning, and more. Answers are first person as these were picked from IRL interviews. Therefore each of them is Valid for some developer somewhere but maybe not for you. This is more of a "what does a good answer look like" situation.
 
 ---
